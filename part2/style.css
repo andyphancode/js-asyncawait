@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color: green;
+}
+
+#cards {
+    margin-top: 100px;
+}
+
+#cards > img {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+  
+
